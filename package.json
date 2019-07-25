@@ -2,14 +2,14 @@
   "name": "camel-lsp-client-atom",
   "main": "./lib/camel-lsp-client-atom",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Language Support for Apache Camel",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "camel-lsp-client-atom:toggle"
   },
-  "repository": "https://github.com/atom/camel-lsp-client-atom",
-  "license": "MIT",
+  "repository": "https://github.com/camel-tooling/camel-lsp-client-atom",
+  "license": "Apache-2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
