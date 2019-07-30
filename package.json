@@ -1,7 +1,7 @@
 {
   "name": "camel-lsp-client-atom",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Language Support for Apache Camel",
   "keywords": [
     "Apache Camel",
