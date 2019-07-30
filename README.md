@@ -2,7 +2,13 @@
 
 # Language Support for Apache Camel
 
-Language Support for Apache Camel based on [Language Server for Apache Camel](https://github.com/camel-tooling/camel-language-server)
+Camel URI completion is provided for Camel Java DSL and Camel XML DSL.
+
+![Completion on Camel URI for XML](./images/completionXml.gif "Completion on Camel URI for XML")
+
+![Completion on Camel URI for Java](./images/completionJava.gif "Completion on Camel URI for Java")
+
+Language Support for Apache Camel is based on [Language Server for Apache Camel](https://github.com/camel-tooling/camel-language-server).
 
 # How to install
 
