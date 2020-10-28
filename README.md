@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/camel-tooling/camel-lsp-client-atom.svg?branch=master)](https://travis-ci.org/camel-tooling/camel-lsp-client-atom)
+[![Build Status](https://travis-ci.com/camel-tooling/camel-lsp-client-atom.svg?branch=master)](https://travis-ci.com/camel-tooling/camel-lsp-client-atom)
 
 # Language Support for Apache Camel
 
